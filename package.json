@@ -16,6 +16,6 @@
     "mongodb": "^3.5.5",
     "nodeman": "^1.1.2",
     "nodemon": "^2.0.2",
-    "sanitize-html": "^1.22.1"
+    "sanitize-html": "^2.3.2"
   }
 }
